@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-    Repository of <a href="https://adventjs.dev/" target="_blank">AdventJS<a> programming challenges by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.
+    Repository of <a href="https://adventjs.dev/" target="_blank">AdventJS<a> programming challenges created by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.
 </h4>
 
 <p align="center">
