@@ -1,60 +1,93 @@
-<h1 align="center"><b>Hi, I'm Alex</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<img align="right" width=300px alt="Gojo" src="https://media1.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=6c09b9520bx22pkeo61oiizyh2h2z81lr84jb2btk2z6pkua&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />
+<h1 align="center">
+    AdventJS Solutions [2024] 🎅🎄
+</h1>
 
-💼 With over three years of professional experience and twelve years of programming, I have had the privilege of contributing to impactful projects as a software developer. I am a graduated System Analyst currently working at EvolutionCode as a Web and Mobile Developer, where I collaborate closely with clients to create customized, high-quality solutions that align with their unique requirements.
+<h4 align="center">
+    Repository of <a href="https://adventjs.dev/" target="_blank">AdventJS<a> programming challenges by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.
+</h4>
 
-- 💻 I am passionate about continuous learning and teamwork, always striving to deliver efficient solutions. <br/>
-- 🌱 I’m currently learning more about software best practices, guided by the best software books. <br/>
-- 👯 I’m looking forward to collaborating on life-changing projects and contributing to innovative software development. <br/>
-- ✔ Ask me about anything; I am happy to help! <br/>
-- Outside of tech, 🍜 I love watching anime, 🎮 playing video games and 📖 reading books.
+<p align="center">
+    <a href="#----summary">Summary</a> •
+    <a href="#----installation">Installation</a> •
+    <a href="#----challenges">Challenges</a> •
+    <a href="#----related">Related</a> •
+    <a href="#----license">License</a> •
+    <a href="#----acknowledgments">Acknowledgments</a> •
+    <a href="#----contact">Contact</a>
+</p>
 
-## My Skills Include
+<p align="center">
+    <img src="./.github/adventjs-logo.png" width="625">
+</p>
 
-<h3>Main Languages and Tools</h3>
-<h4>Frontend and Mobile</h4>
-<span> 
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB">
-   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white">
-   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</span>
+<h2>
+    Summary
+</h2>
+<p>
+    This repository serves as a housing solutions to programming challenges of <a href="https://adventjs.dev/" target="_blank">AdventJS<a>. AdventJS, a project developed by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>, offers a platform for developers to improve Python, JavaScript or TypeScript skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
+</p>
 
-<span>
-  <h4>Backend</h4>
-   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white">
-   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-%2300A3FF.svg?style=for-the-badge&logo=Prisma&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+> This repository contains all the solutions in JavaScript, and TypeScript.
 
-<span>
-  <h4>Other tools and technologies</h4>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-</span>
+<h2>
+    Installation
+</h2>
+<ol>
+    <li>Clone the repository.</li>
+    <li>Install the latest version of <a href="https://nodejs.org/es/" target="_blank">Node.js<a>.</li>
+    <li>Navigate to the directory where you cloned the repository with your favorite CLI.</li>
+    <li>Run <code>npm install</code> in your CLI to install all necessary packages.</li>
+    <li>Finally, run <code>npm test</code> in your CLI to execute all challenges/tests (only available for TypeScript files).</li>
+</ol>
 
+> **Note:** If you want to run a specific challenge/test, execute `npm run test:challenge<number>`.
 
-## Check out my Social Media
+<h2>
+    Challenges
+</h2>
 
-<a href= "https://www.linkedin.com/in/alex--teper/?locale=en_US">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin">
-</a>
+|     #     | Challenge                                                                                             | Difficulty | Stars earned |        Description         |
+| :-------: | ----------------------------------------------------------------------------------------------------- | :--------: | :----------: | :------------------------: |
+|    01     | Return an array of unique gifts sorted in ascending order                                             |     🟢     |    **5**     | [Show](./src/01-challenge) |
+|    02     | Return a string with the names of good child                                                          |     🟢     |    **5**     | [Show](./src/02-challenge) |
+|    03     | Return an object with the organized toys                                                              |     🟢     |    **5**     | [Show](./src/03-challenge) |
+|    04     | Construct a christmas tree with the desired height                                                    |     🟠     |    **5**     | [Show](./src/04-challenge) |
+|    05     | Return a list with the available pair of all boots with the same size (having a left and a right one) |     🟢     |    **5**     | [Show](./src/05-challenge) |
+|    06     | Check if the present is inside the box                                                                |     🟠     |    **5**     | [Show](./src/06-challenge) |
+|    07     | Reorder the packages changed in order to fix the Grinch evil                                          |     🟠     |    **5**     | [Show](./src/07-challenge) |
+|    08     | Get the progress of each reindeer in the snow track                                                   |     🟢     |    **5**     | [Show](./src/08-challenge) |
+|    09     | Return the train action in the next step inside or out the board                                      |     🟠     |    **5**     | [Show](./src/09-challenge) |
+|    10     | Create a compiler of instructions                                                                     |     🟠     |    **5**     | [Show](./src/10-challenge) |
+|    11     | Decode file names coded by the Grinch                                                                 |     🟢     |    **5**     | [Show](./src/11-challenge) |
+|    12     | Calculate the total price of the tree by ornaments                                                    |     🟢     |    **5**     | [Show](./src/12-challenge) |
+|    13     | Check if the robot (after executing a series of movements) return to his original position            |     🔴     |    **5**     | [Show](./src/13-challenge) |
+|    14     | Get the minimum number of moves needed for all the reindeer to end up in a stable                     |     🟢     |    **5**     | [Show](./src/14-challenge) |
+|    15     | Create a table based on an array with objects                                                         |     🟢     |    **5**     | [Show](./src/15-challenge) |
+|    16     | Remove all adjacent snow piles from the path                                                          |     🟢     |    **5**     | [Show](./src/16-challenge) |
+|    17     | Get how many explosive coal bombs are in the adjacent positions                                       |     🟠     |    **5**     | [Show](./src/17-challenge) |
+|    18     | Get the name and address of the child inside the misformatted diary                                   |     🔴     |    **5**     | [Show](./src/18-challenge) |
+|    19     | Draw a tower with the minimum number of boxes for a specific weight                                   |     🔴     |    **5**     | [Show](./src/19-challenge) |
+|    20     | Return an object with the missing and extra gifts                                                     |     🟢     |    **5**     | [Show](./src/20-challenge) |
+|    21     | Return the height of the binary tree                                                                  |     🟢     |    **5**     | [Show](./src/21-challenge) |
+| **Total** |                                                                                                       |   **/**    |   **105**    |           **/**            |
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=white"  alt="Portfolio">
-</a>
+<h2>
+    License
+</h2>
+<p>
+    This repository is under <a href="./LICENSE" target="_blank">MIT License</a>, if you want to see what you are allowed to do with the content of this repository, please visit <a href="https://choosealicense.com/licenses/" target="_blank">choosealicense</a> for more information.
+</p>
 
-<h2>Github stats:</h2> 
+<h2>
+    Acknowledgments
+</h2>
+<p>
+    Thanks to <a href="https://www.linkedin.com/in/midudev/" target="_blank">Miguel Ángel Durán</a> to develop <a href="https://adventjs.dev/" target="_blank">AdventJS<a>.
+</p>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; height: 100vh; width: 100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexTeper99&show_icons=true&theme=tokyonight&hide_border=true&locale=en" style="max-width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexTeper99&theme=material-palenight" style="max-width: 100%;"/>
-</div>
+<h2>
+    Contact
+</h1>
+<p>
+    If you want to contact me, please see my <a href="https://github.com/AlexTeper99" target="_blank">socials medias</a> in my GitHub profile or send me a email to alexteper99@gmail.com
+</p>
