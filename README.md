@@ -97,5 +97,5 @@ Hidden Challenge : 26 | Calculate the completed percentage 🟢 | 5
     Contact
 </h1>
 <p>
-    If you want to contact me, please see my <a href="https://github.com/AlexTeper99" target="_blank">socials medias</a> in my GitHub profile or send me a email to alexteper99@gmail.com
+    If you want to contact me, please see my <a href="https://www.linkedin.com/in/alex--teper/" target="_blank">socials medias</a> in my GitHub profile or send me a email to alexteper99@gmail.com
 </p>
