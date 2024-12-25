@@ -69,7 +69,15 @@
 |    19     | Draw a tower with the minimum number of boxes for a specific weight                                   |     🔴     |    **5**     | [Show](./src/19-challenge) |
 |    20     | Return an object with the missing and extra gifts                                                     |     🟢     |    **5**     | [Show](./src/20-challenge) |
 |    21     | Return the height of the binary tree                                                                  |     🟢     |    **5**     | [Show](./src/21-challenge) |
-| **Total** |                                                                                                       |   **/**    |   **105**    |           **/**            |
+|    22     | Get all possible combinations of toys                                                                 |     🟠     |    **5**     | [Show](./src/22-challenge) |
+|    23     | Find missing numbers                                                                                  |     🟢     |    **5**     | [Show](./src/23-challenge) |
+|    24     | Check if the trees are synchronized                                                                   |     🟠     |    **5**     | [Show](./src/24-challenge) |
+|    25     | Return the value of the program after executing instructions sequence                                 |     🟠     |    **5**     | [Show](./src/25-challenge) |
+| **Total** |                                                                                                       |   **/**    |   **125**    |           **/**            |
+
+<h5>
+Hidden Challenge : 26 | Calculate the completed percentage 🟢 | 5
+</h5>
 
 <h2>
     License
