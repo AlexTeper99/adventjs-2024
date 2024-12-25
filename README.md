@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-    Repository of <a href="https://adventjs.dev/" target="_blank">AdventJS<a> programming challenges by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.
+    Repository of <a href="https://adventjs.dev/" target="_blank">AdventJS<a> programming challenges created by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.
 </h4>
 
 <p align="center">
@@ -27,7 +27,7 @@
     This repository serves as a housing solutions to programming challenges of <a href="https://adventjs.dev/" target="_blank">AdventJS<a>. AdventJS, a project developed by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>, offers a platform for developers to improve Python, JavaScript or TypeScript skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
 </p>
 
-> This repository contains all the solutions in JavaScript, and TypeScript.
+> This repository contains all the solutions in JavaScript and TypeScript.
 
 <h2>
     Installation
@@ -97,5 +97,5 @@ Hidden Challenge : 26 | Calculate the completed percentage 🟢 | 5
     Contact
 </h1>
 <p>
-    If you want to contact me, please see my <a href="https://github.com/AlexTeper99" target="_blank">socials medias</a> in my GitHub profile or send me a email to alexteper99@gmail.com
+    If you want to contact me, please see my <a href="https://www.linkedin.com/in/alex--teper/" target="_blank">socials medias</a> in my GitHub profile or send me a email to alexteper99@gmail.com
 </p>
